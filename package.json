@@ -7,7 +7,7 @@
     "test": "node index.js"
   },
   "dependencies":{
-    "usergrid":"0.10.4"
+    "usergrid":"0.10.7"
   },
   "repository": "",
   "keywords": [
